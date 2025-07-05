@@ -35,7 +35,12 @@
 
 - 視覚障害当事者視点を活かした技術・製品開発  
 - AR/VR、認知科学、アクセシビリティ向上  
-- 社会課題と先端技術の融合  
+- 社会課題と先端技術の融合
+
+## 論文・発表実績
+- [金子 祐二（2024）](https://github.com/yujikaneko/RPView2)AR技術によるリアルタイム視野狭窄シミュレーションの開発とその可能性．日本認知科学会第41回大会発表論文集，41．
+- [金子 祐二（2023）](https://github.com/yujikaneko/RPView)視野狭窄の視知覚を再現する画像フィルタの開発とその応用 ―当事者として―．日本認知科学会第40回大会発表論文集，40．
+- [金子 祐二・小嶋 秀樹（2020）](https://tohoku.repo.nii.ac.jp/records/134491)認知科学研究のツールとしての認知モデル LIDA の課題と展望．教育情報学研究，19，1-9．
 
 ## Contact
 
@@ -86,6 +91,13 @@
 - Technical development for accessibility from the perspective of individuals with visual impairments  
 - AR/VR, cognitive science, usability improvement  
 - Bridging social issues with cutting-edge technology  
+
+## Publications and Presentations
+
+- [Kaneko, Y. (2024).](https://github.com/yujikaneko/RPView2) Development and Possibilities of Real-Time Visual Field Constriction Simulation Using AR Technology. Proceedings of the 41st Annual Meeting of the Japanese Cognitive Science Society, 41.
+- [Kaneko, Y. (2023).](https://github.com/yujikaneko/RPView) Development and Application of an Image Filter Reproducing Visual Perception with Constricted Visual Field: As an Affected Individual. Proceedings of the 40th Annual Meeting of the Japanese Cognitive Science Society, 40.
+- [Kaneko, Y. & Kojima, H. (2020).](https://tohoku.repo.nii.ac.jp/records/134491) Challenges and Prospects of the Cognitive Model LIDA as a Tool for Cognitive Science Research. Journal of Educational Information Studies, 19, 1-9.
+
 
 ## Contact
 
